@@ -229,6 +229,11 @@ def main():
     for i in range(num_files):
         profile_title = f"🆓 Git:skywrt | Sub{i+1} 🔥"
         encoded_title = base64.b64encode(profile_title.encode()).decode()
+        custom_fixed_text = f"""#profile-title: base64:{encoded_title}
+#profile-update-interval: 1
+#support-url: https://github.com/skywrt/Default
+#profile-web-page-url: https://github.com/skywrt/Default
+"""
 
         input_filename = os.path.join(output_folder, f"Sub{i + 1}.txt")
         with open(input_filename, "w", encoding="utf-8") as f:
