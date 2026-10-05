@@ -1,6 +1,6 @@
 name: Update Configs
 permissions: write-all
-
+workflow_dispatch:
 on:
   push:
     branches:
