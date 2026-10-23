@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/skywrt/Default
 #profile-web-page-url: https://github.com/skywrt/Default
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#####Skywrt
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#Skywrt
-trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#Skywrt
-trojan://humanity@104.18.35.86:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=www.volumerOot.coM.#Skywrt
 trojan://humanity@104.18.35.86:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=www.volumerOot.coM.#Skywrt
 trojan://humanity@104.18.35.86:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=www.volumerOot.coM.#Skywrt
 trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#Skywrt
@@ -1002,3 +998,7 @@ vless://2a52bf1e-2bb2-402b-8284-6df456dde283@65.109.188.155:443?path=/gfnYsJH9jf
 vless://2a52bf1e-2bb2-402b-8284-6df456dde283@91.107.145.236:443?path=/gfnYsJH9jfjxSRpRwtHgDe6fAddXvVGR&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=app.sinaam84.ir&fp=chrome&type=ws&allowInsecure=0&sni=app.sinaam84.ir#Skywrt
 vless://2a52bf1e-2bb2-402b-8284-6df456dde283@91.107.180.141:443?path=/gfnYsJH9jfjxSRpRwtHgDe6fAddXvVGR&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=app.sinaam84.ir&fp=chrome&type=ws&allowInsecure=0&sni=app.sinaam84.ir#Skywrt
 vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#Skywrt
+vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#Skywrt
+vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#Skywrt
+vless://2a95e79e-0139-4222-9dff-5daf44246aa3@mahdixnzn.paydar.site:14716?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Skywrt
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=/v1&security=none&encryption=none&type=ws#Skywrt
