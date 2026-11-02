@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/skywrt/Default
 #profile-web-page-url: https://github.com/skywrt/Default
+trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#Skywrt
 trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site#Skywrt
 trojan://mitivpn@188.114.97.6:443?security=tls&sni=de.mitivpn.in.net&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&ech=iranva.ir+udp://1.1.1.1&type=ws&host=de.mitivpn.in.net&path=/#Skywrt
 trojan://mitivpn@188.114.98.0:443?security=tls&alpn=http/1.1&host=de.mitivpn.in.net&type=ws&sni=de.mitivpn.in.net#Skywrt
@@ -996,7 +997,6 @@ vless://30693e15-1014-443b-88dd-1232b55a06b6@104.16.6.70:443?path=/&security=tls
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@leviconfigs&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#Skywrt
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@leviconfigs_leviconfigs&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#Skywrt
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#Skywrt
-vless://30c7b8df-92fd-40b8-9a34-d2db8e27bc59@185.19.33.35:443?security=reality&encryption=none&pbk=-agfg9_OwMV9awsaUCUiV5hfb8QHvuhD5NdH2rmmqyU&headerType=none&fp=chrome&spx=/634980d82484785&type=tcp&sni=android.clients.google.com&sid=1a025b7a9575#Skywrt
 vless://30c7b8df-92fd-40b8-9a34-d2db8e27bc59@185.19.33.35:443?security=reality&encryption=none&pbk=-agfg9_OwMV9awsaUCUiV5hfb8QHvuhD5NdH2rmmqyU&headerType=none&fp=chrome&spx=/634980d82484785&type=tcp&sni=android.clients.google.com&sid=1a025b7a9575#Skywrt
 vless://30c7b8df-92fd-40b8-9a34-d2db8e27bc59@185.19.33.35:443?security=reality&encryption=none&pbk=-agfg9_OwMV9awsaUCUiV5hfb8QHvuhD5NdH2rmmqyU&headerType=none&fp=chrome&spx=/634980d82484785&type=tcp&sni=android.clients.google.com&sid=1a025b7a9575#Skywrt
 vless://30c7b8df-92fd-40b8-9a34-d2db8e27bc59@185.19.33.35:443?security=reality&encryption=none&pbk=-agfg9_OwMV9awsaUCUiV5hfb8QHvuhD5NdH2rmmqyU&headerType=none&fp=chrome&spx=/634980d82484785&type=tcp&sni=android.clients.google.com&sid=1a025b7a9575#Skywrt
