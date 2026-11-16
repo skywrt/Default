@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/skywrt/Default
 #profile-web-page-url: https://github.com/skywrt/Default
-vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@135.181.187.44:443?type=tcp&flow=xtls-rprx-vision&security=tls&sni=sizipe.hagrid-connected.com&encryption=none#Skywrt
-vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@135.181.187.44:443?type=tcp&flow=xtls-rprx-vision&security=tls&sni=sizipe.hagrid-connected.com&encryption=none#Skywrt
-vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=lodizu.hagrid-connected.com&type=tcp#Skywrt
-vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=lodizu.hagrid-connected.com&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#Skywrt
 vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=lodizu.hagrid-connected.com&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#Skywrt
 vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=lodizu.hagrid-connected.com&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#Skywrt
 vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=lodizu.hagrid-connected.com&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#Skywrt
@@ -1002,3 +998,7 @@ vless://e9a9d2ba-8c33-4e5e-a903-efa595db2fff@wwww.qarvian.ir:443?pcs=CD6E838B9BF
 vless://e9e5f015-811c-4579-8c0b-12266f7ffae8@s4.kalampolo.com:8745?path=/&security=&encryption=none&type=ws#Skywrt
 vless://e9fb98e3-28bd-4ee4-962f-195c4f6354a0@188.114.97.6:2096?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=parstoday.com.iribnews.ir.donya-e-eqtesad.com.alef.ir.donya-e-eqtesad.com.iribnews.ir.farsnews.ir&allowInsecure=0&sni=eARlY-maTErIAl37F06AQWD6.SaMsUNGovENS.iR#Skywrt
 vless://ea1dfd55-0ff7-4e42-970b-fb2725b1d7db@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Skywrt
+vless://ea96f2f2-7320-4f51-87d8-f7f60f57a19e@31.14.116.90:2087?mode=auto&path=/api-ai-token&security=reality&encryption=mlkem768x25519plus.native.0rtt.UCefWu4YoF-jHuKn0MBMphL7jG0WW_L_nuVCGPRpPUM&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=3NIri8KMT7DE0dh_I2cXdZMKAVo6MIdvktMHmUHl1nk&fp=chrome&spx=/109c1496f72350a&type=xhttp&sni=play.google.com&sid=0a#Skywrt
+vless://ead4a562-edf2-40cf-ad33-13ae98546226@102.208.217.14:2087/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=dl.google.com&allowInsecure=1&fp=chrome&security=reality&pbk=eeD55i5qwcb8fvWZuJF6o-o2Ums4QEenTer8iNtobUk&sid=d9d5b093#Skywrt
+vless://ead4a562-edf2-40cf-ad33-13ae98546226@77.90.0.22:2087?security=reality&encryption=none&pbk=lN4gxtu1uZUH0d-RFC35FHoAwKZ6bNGV7I68JCAbGF4&type=grpc&serviceName=grpc&sni=dl.google.com&sid=c0e1f54d#Skywrt
+vless://ead4a562-edf2-40cf-ad33-13ae98546226@77.90.0.22:2087?security=reality&encryption=none&pbk=lN4gxtu1uZUH0d-RFC35FHoAwKZ6bNGV7I68JCAbGF4&type=grpc&serviceName=grpc&sni=dl.google.com&sid=c0e1f54d#Skywrt

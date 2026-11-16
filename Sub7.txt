@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/skywrt/Default
 #profile-web-page-url: https://github.com/skywrt/Default
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.24.196.20:443?path=/DailyConfigs--DailyConfigs--DailyConfigs&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#Skywrt
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.26.13.54:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#Skywrt
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.26.13.54:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#Skywrt
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.26.13.54:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#Skywrt
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@13.143.165.124:8443?path=/&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#Skywrt
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@139.162.62.195:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#Skywrt
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@161.118.200.170:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#Skywrt
@@ -1002,3 +998,7 @@ vless://be5851ff-9af5-45ea-b874-a0a035714114@104.27.66.214:8443?path=/admin.php&
 vless://bed0f9f1-3f7f-4014-aaa1-f997fc5ce6bf@chatgpt.com:443?encryption=mlkem768x25519plus.native.0rtt.L0PYWYsIvs5LTqYpjk3nauq1x0u2wUW9JmWQHmKxyD4&flow=xtls-rprx-vision&security=tls&sni=hdd.subgift.cyou&fp=unsafe&alpn=http/1.1&type=ws&host=hdd.subgift.cyou&path=/t.me-SubGift#Skywrt
 vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@135.181.187.44:443?type=tcp&flow=xtls-rprx-vision&security=tls&sni=sizipe.hagrid-connected.com&encryption=none#Skywrt
 vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@135.181.187.44:443?type=tcp&flow=xtls-rprx-vision&security=tls&sni=sizipe.hagrid-connected.com&encryption=none#Skywrt
+vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@135.181.187.44:443?type=tcp&flow=xtls-rprx-vision&security=tls&sni=sizipe.hagrid-connected.com&encryption=none#Skywrt
+vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@135.181.187.44:443?type=tcp&flow=xtls-rprx-vision&security=tls&sni=sizipe.hagrid-connected.com&encryption=none#Skywrt
+vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=lodizu.hagrid-connected.com&type=tcp#Skywrt
+vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=lodizu.hagrid-connected.com&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#Skywrt
