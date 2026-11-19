@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/skywrt/Default
 #profile-web-page-url: https://github.com/skywrt/Default
-vless://d651c9ab-b844-4420-b3d0-20d201ef5f55@201.34.137.8:443?security=reality&encryption=none&pbk=HyPCaHlGMjE2h7D4F6dtyFHeXDEAHIUg9fXJgADc5H0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-pl-2.nztpro.com&sid=134a7678ec2a3285&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#Skywrt
-vless://d652c08a-2acf-4b44-c9fd-d3f70067c9f3@game.celvixo.ir:2087?path=/&security=none&encryption=none&host=cp.xelzano.ir&type=ws#Skywrt
 vless://d65a82af-a403-405e-8b7b-27a68b830511@freeman.bestxau.ir:19210?mode=auto&path=/&security=reality&encryption=none&pbk=112X7iICOgZtFOHXdn59EY7m_gwKultc-zwYPzBv6wU&fp=chrome&type=xhttp&sni=play-apps-features.googleusercontent.com&sid=4f69072c426d46a6#Skywrt
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Skywrt
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Skywrt
@@ -1002,3 +1000,5 @@ vless://ff150806-a80c-4703-a930-56b55576df18@31.77.199.15:443?security=reality&e
 vless://ff5fc681-8548-4621-87d1-6b123db48f64@172.235.49.52:443?encryption=none&fp=&host=itunes.apple.com&path=/ws&pbk=Md-qJgtcKVbuLuwCX8r-VZnfKq3z_3CtyPt3CRcqdQE&security=reality&sid=270d474c&sni=itunes.apple.com&type=ws#Skywrt
 vless://ff5fc681-8548-4621-87d1-6b123db48f64@172.235.49.52:443?encryption=none&fp=&host=itunes.apple.com&path=/ws&pbk=Md-qJgtcKVbuLuwCX8r-VZnfKq3z_3CtyPt3CRcqdQE&security=reality&sid=270d474c&sni=itunes.apple.com&type=ws#Skywrt
 vless://ff5fc681-8548-4621-87d1-6b123db48f64@172.235.49.52:443?encryption=none&fp=&host=itunes.apple.com&path=/ws&pbk=Md-qJgtcKVbuLuwCX8r-VZnfKq3z_3CtyPt3CRcqdQE&security=reality&sid=270d474c&sni=itunes.apple.com&type=ws#Skywrt
+vless://ff5fc681-8548-4621-87d1-6b123db48f64@172.235.49.52:443?encryption=none&fp=&host=itunes.apple.com&path=/ws&pbk=Md-qJgtcKVbuLuwCX8r-VZnfKq3z_3CtyPt3CRcqdQE&security=reality&sid=270d474c&sni=itunes.apple.com&type=ws#Skywrt
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@176.98.176.86:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#Skywrt

@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/skywrt/Default
 #profile-web-page-url: https://github.com/skywrt/Default
-vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#Skywrt
-vless://4c58afde-50b4-4cbe-be1a-f70646c0545c@[::ffff:681f:1025]:80?path=/checkout&security=none&encryption=none&host=soFTWARe.dL-VscOde.COM&type=ws#Skywrt
 vless://4c910f7d-a04a-434d-9f33-974dd21446a8@us-1.veraspeed.ir:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.HqAJDapKVNOb1sf4hJJ9Bj_TFbuhclVZ185D0-R022o&pbk=aOfiTGCPr4ZjytCZrTL5zcMe-azl_FuG2Ywc1ZxH538&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=thestraightpath.ca&sid=fe9d69f0913cef88#Skywrt
 vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.73.41:443?security=tls&encryption=none&insecure=0&type=grpc&serviceName=cache.sync.v1&allowInsecure=0&sni=cadrin.wtf#Skywrt
 vless://4cac189c-5611-4cfa-9946-bf1b2b3d152c@185.146.173.37:8080?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=/#Skywrt
@@ -1002,3 +1000,5 @@ vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ip.notomarosww.com:8443?path=/?ed=2
 vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ip.notomarosww.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#Skywrt
 vless://832c8f42-7fe1-4aa4-9171-eb9dddbf6fef@172.67.130.159:2096?path=/78bc8&security=tls&encryption=none&insecure=0&host=cdn-sg.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-sg.skyvora.app#Skywrt
 vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?encryption=none&security=tls&sni=sync.2ml.bid&type=grpc&serviceName=v3-direct#Skywrt
+vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?encryption=none&security=tls&sni=sync.2ml.bid&type=grpc&serviceName=v3-direct#Skywrt
+vless://83633397-3427-4ab1-962a-3574fc5dddb8@whitepanel-ui-production-c905.up.railway.app:443?path=/ws/83633397-3427-4ab1-962a-3574fc5dddb8&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=whitepanel-ui-production-c905.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=whitepanel-ui-production-c905.up.railway.app#Skywrt
