@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/skywrt/Default
 #profile-web-page-url: https://github.com/skywrt/Default
+vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:443?security=reality&encryption=none&pbk=_DS81HrngZsd_laYN5H0ZLvrqWhiW2DgMP2ea8KQkBc&headerType=none&fp=chrome&spx=/5c9eb9b2ec2d856&type=tcp&sni=dl.google.com&sid=abcd1234&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#Skywrt
+vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:443?security=reality&encryption=none&pbk=_DS81HrngZsd_laYN5H0ZLvrqWhiW2DgMP2ea8KQkBc&host=&headerType=none&fp=chrome&spx=/5c9eb9b2ec2d856&type=tcp&sni=dl.google.com&sid=abcd1234#Skywrt
 vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:8080?path=/vless&security=&encryption=none&type=ws#Skywrt
 vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:8080?path=/vless&security=none&encryption=none&type=ws#Skywrt
 vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:8080?path=/vless&security=none&encryption=none&type=ws#Skywrt
@@ -1000,5 +1002,3 @@ vless://efed9d62-5c7c-4b97-b290-f3d2dcf1e6a0@crewmen-grittier.freevideochats.org
 vless://eff4b847-75bf-4c89-b469-814a2cab2d9b@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Skywrt
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.225:443?encryption=none&type=xhttp&headerType=auto&path=/api/v1/&security=tls&fp=chrome&sni=tg1.cdnphotos.org#Skywrt
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.226:443?encryption=none&type=xhttp&headerType=auto&path=/api/v1/&security=tls&fp=chrome&sni=tg1.cdnphotos.org#Skywrt
-vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.227:443?encryption=none&type=xhttp&headerType=auto&path=/api/v1/&security=tls&fp=chrome&sni=tg1.cdnphotos.org#Skywrt
-vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?encryption=none&type=xhttp&headerType=auto&path=/api/v1/&security=tls&fp=chrome&sni=tg1.cdnphotos.org#Skywrt

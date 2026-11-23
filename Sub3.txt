@@ -3,6 +3,8 @@
 #support-url: https://github.com/skywrt/Default
 #profile-web-page-url: https://github.com/skywrt/Default
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.nextjobopportunityandclaimyouridealrole.com#Skywrt
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.nextjobopportunityandclaimyouridealrole.com#Skywrt
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.nextjobopportunityandclaimyouridealrole.com#Skywrt
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&sni=blog.nextjobopportunityandclaimyouridealrole.com#Skywrt
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#Skywrt
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#Skywrt
@@ -998,7 +1000,5 @@ vless://16a9dec0-1712-4484-80f9-579a121bdf22@5ff1555492c89f37.5c6.ir:8103?securi
 vless://16a9dec0-1712-4484-80f9-579a121bdf22@5ff1555492c89f37.5c6.ir:8103?security=none&encryption=mlkem768x25519plus.native.0rtt.NGe5AU-lIAu2Tdh2Qu35429j820woztU17x1OdjjATU&headerType=none&type=tcp#Skywrt
 vless://16a9dec0-1712-4484-80f9-579a121bdf22@5ff1555492c89f37.5c6.ir:8103?security=none&encryption=mlkem768x25519plus.native.0rtt.NGe5AU-lIAu2Tdh2Qu35429j820woztU17x1OdjjATU&headerType=none&type=tcp#Skywrt
 vless://16a9dec0-1712-4484-80f9-579a121bdf22@76833452bd788403.5l6.ir:8123?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=mlkem768x25519plus.native.0rtt.RJ87kEG3iQSn335tUGQfldvVb0-YU8lCnNsyJW-qHw0&headerType=none&type=tcp#Skywrt
-vless://16a9dec0-1712-4484-80f9-579a121bdf22@76833452bd788403.5l6.ir:8123?security=none&encryption=mlkem768x25519plus.native.0rtt.RJ87kEG3iQSn335tUGQfldvVb0-YU8lCnNsyJW-qHw0&headerType=none&type=tcp#Skywrt
-vless://16a9dec0-1712-4484-80f9-579a121bdf22@76833452bd788403.5l6.ir:8123?security=none&encryption=mlkem768x25519plus.native.0rtt.RJ87kEG3iQSn335tUGQfldvVb0-YU8lCnNsyJW-qHw0&headerType=none&type=tcp#Skywrt
 vless://16a9dec0-1712-4484-80f9-579a121bdf22@76833452bd788403.5l6.ir:8123?security=none&encryption=mlkem768x25519plus.native.0rtt.RJ87kEG3iQSn335tUGQfldvVb0-YU8lCnNsyJW-qHw0&headerType=none&type=tcp#Skywrt
 vless://16a9dec0-1712-4484-80f9-579a121bdf22@76833452bd788403.5l6.ir:8123?security=none&encryption=mlkem768x25519plus.native.0rtt.RJ87kEG3iQSn335tUGQfldvVb0-YU8lCnNsyJW-qHw0&headerType=none&type=tcp#Skywrt
