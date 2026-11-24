@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/skywrt/Default
 #profile-web-page-url: https://github.com/skywrt/Default
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#Skywrt
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#Skywrt
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#Skywrt
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#Skywrt
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#Skywrt
@@ -1000,5 +1002,3 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.107:443?security=tls&insecu
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.107:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=blog.indyourperfectremotetechjobfromthecomfortofhome.com#Skywrt
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.154:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.indyourperfectremotetechjobfromthecomfortofhome.com#Skywrt
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.154:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.indyourperfectremotetechjobfromthecomfortofhome.com#Skywrt
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?fp=chrome&sni=indyourperfectremotetechjobfromthecomfortofhome.com#Skywrt
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?security=tls&headerType=none&type=tcp&sni=indyourperfectremotetechjobfromthecomfortofhome.com#Skywrt
