@@ -14,7 +14,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#Skywrt
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#Skywrt
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#Skywrt
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#Skywrt
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#Skywrt
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443?#Skywrt
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#Skywrt
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#Skywrt
@@ -1000,5 +999,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?security=tls&insecu
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443/?type=tcp&security=tls&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#Skywrt
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443/?type=tcp&security=tls&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#Skywrt
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443/?type=tcp&security=tls&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#Skywrt
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#Skywrt
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#Skywrt
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#Skywrt
